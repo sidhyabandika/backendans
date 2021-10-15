@@ -1,0 +1,237 @@
+  [	
+	{
+		"id"   :"1",
+		"Merk" :"Honda",
+		"image":"/image/1.png",
+		"model":"Accord",
+		"type" :"1,5 L Turbo",
+		"harga":"744.500.000"
+	},
+	
+	{
+		"id"   :"2",
+		"Merk" :"Honda",
+		"model":"New Honda City HATCHBACK RS Manual (MT)",
+		"type" :"RS MT",
+		"harga":"293.000.000"
+	},
+	{
+		"id"   :"3",
+		"Merk" :"Honda",
+		"model":"New Honda City HATCHBACK RS Manual (MT)",
+		"type" :"RS CVT",
+		"harga":"303.000.000"
+	},
+	
+	{
+		"id"   :"4",
+		"Merk" :"Honda",
+		"model":"Mobilio",
+		"type" :"S MT",
+		"harga":"207.400.000"
+	},
+	{
+		"id"   :"5",
+		"Merk" :"Honda",
+		"model":"Mobilio",
+		"type" :"E MT",
+		"harga":"229.400.000"
+	},
+	{
+		"id"   :"6",
+		"Merk" :"Honda",
+		"model":"Mobilio",
+		"type" :"E CVT",
+		"harga":"239.700.000"
+	},
+	{
+		"id"   :"7",
+		"Merk" :"Honda",
+		"model":"Mobilio",
+		"type" :"RS MT",
+		"harga":"251.400.000"
+	},
+	{
+		"id"   :"8",
+		"Merk" :"Honda",
+		"model":"Mobilio",
+		"type" :"RS CVT",
+		"harga":"261.300.000"
+	},
+	{
+		"id"   :"9",
+		"Merk" :"Honda",
+		"model":"Mobilio",
+		"type" :"RS MT TT",
+		"harga":"252.900.000"
+	},
+	{
+		"id"   :"10",
+		"Merk" :"Honda",
+		"model":"Mobilio",
+		"type" :"RS CVT TT",
+		"harga":"262.800.000"
+	},
+	{
+		"id"   :"11",
+		"Merk" :"Honda",
+		"model":"HR-V",
+		"type" :"1,5 S MT",
+		"harga":"301.100.000"
+	},
+	{
+		"id"   :"12'",
+		"Merk" :"Honda",
+		"model":"HR-V",
+		"type" :"1,5 S CVT",
+		"harga":"310.700.000"
+	},
+	{
+		"id"   :"13",
+		"Merk" :"Honda",
+		"model":"HR-V",
+		"type" :"1,5 E CVT",
+		"harga":"332.600.000"
+	},
+	{
+		"id"   :"14",
+		"Merk" :"Honda",
+		"model":"HR-V",
+		"type" :"1,5 E CVT SE",
+		"harga":"348.700.000"
+	},
+	{
+		"id"   :"15",
+		"Merk" :"Honda",
+		"model":"HR-V",
+		"type" :"1,8 Prestige",
+		"harga":"412.600.000"
+	},
+	{
+		"id"   :"16",
+		"Merk" :"Honda",
+		"model":"HR-V",
+		"type" :"1,8 Prestige TT",
+		"harga":"414.100.000"
+	},
+	
+	{
+		"id"   :"17",
+		"Merk" :"Honda",
+		"model":"Brio Satya",
+		"type" :"S MT",
+		"harga":"159.200.000"
+	},
+	{
+		"id"   :"18",
+		"Merk" :"Honda",
+		"model":"Brio Satya",
+		"type" :"E MT",
+		"harga":"168.100.000"
+	},
+	{
+		"id"   :"19",
+		"Merk" :"Honda",
+		"model":"Brio Satya",
+		"type" :"E CVT",
+		"harga":"183.200.000"
+	},
+	
+	{
+		"id"   :"20",
+		"Merk" :"Honda",
+		"model":"Brio RS",
+		"type" :"RS MT",
+		"harga":"188.900.000"
+	},
+	{
+		"id"   :"21",
+		"Merk" :"Honda",
+		"model":"Brio RS",
+		"type" :"RS CVT",
+		"harga":"202.900.000"
+	},
+	{
+		"id"   :"22",
+		"Merk" :"Honda",
+		"model":"Brio RS",
+		"type" :"RS MT Urbanite",
+		"harga":"194.900.000"
+	},
+	{
+		"id"   :"23",
+		"Merk" :"Honda",
+		"model":"Brio RS",
+		"type" :"RS CVT Urbanite",
+		"harga":"208.900.000"
+	},
+	{
+		"id"   :"24",
+		"Merk" :"Honda",
+		"model":"Civic",
+		"type" :"RS CVT",
+		"harga":"510.200.000"
+	},
+	
+	{
+		"id"   :"25",
+		"Merk" :"Honda",
+		"model":"Odyssey",
+		"type" :"2,4 Prestige",
+		"harga":"878.500.000"
+	},
+	
+	{
+		"id"   :"26",
+		"Merk" :"Honda",
+		"model":"CR-V",
+		"type ":"2,0 CVT",
+		"harga":"468.800.000"
+	},
+	{
+		"id"   :"27",
+		"Merk" :"Honda",
+		"model":"CR-V",
+		"type ":"1,5 L Turbo",
+		"harga":"497.300.000"
+	},
+	{
+		"id"   :"28",
+		"Merk" :"Honda",
+		"model":"CR-V",
+		"type ":"1,5 L Turbo Prestige",
+		"harga":"546.600.000"
+	},
+	
+	{
+		"id"   :"29",
+		"Merk" :"Honda",
+		"model":"BR-V",
+		"type ":"S MT",
+		"harga":"247.500.000"
+	},
+	{
+		"id"   :"30",
+		"Merk" :"Honda",
+		"model":"BR-V",
+		"type ":"E MT",
+		"harga":"260.800.000"
+	},
+	{
+		"id"   :"31",
+		"Merk" :"Honda",
+		"model":"BR-V",
+		"type ":"E CVT",
+		"harga":"269.800.000"
+	},
+	{
+		"id"   :"32",
+		"Merk" :"Honda",
+		"model":"BR-V",
+		"type ":"Prestige",
+		"harga":"285.200.000"
+	}
+]
+
+
+
