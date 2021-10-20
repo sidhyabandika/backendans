@@ -1,7 +1,7 @@
 const express = require ("express");
 const app = express();
 const importData = require("./db.json");
-const importData = require("./dblifestyle.json");
+const importData1 = require("./dblifestyle.json");
 
 let port = process.env.PORT;
 
@@ -12,7 +12,7 @@ app.get("/car",(req, res) =>{
     res.send(importData);
 });
 app.get("/adat",(req, res) =>{
-    res.send(importData);
+    res.send(importData1);
 });
 
 app.listen(port,() => {
