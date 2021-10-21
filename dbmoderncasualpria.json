@@ -1,0 +1,74 @@
+[
+    {
+        "id" : "1",
+        "images" : "/image/modern/1.png",
+        "sumber" : "Pinterest/Rudy",
+        "model_casual"  : "Sweater + jeans",
+        "refer" :"Bila kamu gemar mengenakan sweater, look ini cocok untuk kamu. Kamu bisa memadukan sweater favoritmu dengan denim jeans dan sepatu sneakers seperti Vans, Converse dan semacamnya."
+    },
+    {
+        "id" : "2",
+        "images" : "/image/modern/2.png",
+        "sumber" : "Dee Trade",
+        "model_casual"  : "Oversized Shirt + Sepatu Putih",
+        "refer" :"Style ini cocok untuk kamu yang suka sesuatu hal yang sederhana,kamu bisa memadukan jeans sebagai bawahan dan oversized shirt putih polos untuk atasan."
+    },
+    {
+        "id" : "3",
+        "images" : "/image/modern/3.png",
+        "sumber" : "Pinterest",
+        "model_casual"  : "Long sleeve",
+        "refer" :"long sleeve adalah baju tangan panjang yang mempunyai bahan lebih tipis dibandingkan sweater"
+    },
+    {
+        "id" : "4",
+        "images" : "/image/modern/4.png",
+        "sumber" : "Pinterest/Target",
+        "model_casual"  : "Jaket Denim + Jeans",
+        "refer" :" Dengan kaos polos, kamu bisa menggunakan jaket denim sebagai outer dan sepatu sneakers canvas tinggi dan kaos kaki panjang."
+
+    },
+    {
+        "id" : "5",
+        "images" : "/image/modern/5.png",
+        "sumber" : "Styleoholic",
+        "model_casual"  : "Cardigan + Plaid Pants",
+        "refer" :"Apakah kamu ingin berkunjung ke negara yang dingin? Atau kamu menyukai pakaian sejenis ini? Kaos putih cocok digabungkan dengan celana bahan plaids, unik bukan? Untuk outer cardigan panjang hitam bisa digunakan."
+    },
+    {
+        "id" : "6",
+        "images" : "/image/modern/6.png",
+        "sumber" : "Pinterest/ASOS",
+        "model_casual"  : "Neon Oversized Shirt",
+        "refer" :"Kaos kebesaran atau oversized t-shirt tidak berarti harus warna hitam putih. Bila kamu berani, kamu bisa mencoba yang berwarna cerah seperti neon. Karena atasannya sudah mempunyai warna yang cerah, kamu bisa menggunakan aksesoris dan celana panjang berwarna hitam atau warna gelap lainnya."
+    },
+    {
+        "id" : "7",
+        "images" : "/image/modern/7.png",
+        "sumber" : "The Fashionisto",
+        "model_casual"  : "All White",
+        "refer" :"Apakah kamu suka warna putih? Kamu boleh coba look all white ini! Dari atas ke bawah, semua berwarna putih, nampak santai namun elegan."
+    },
+    {
+        "id" : "8",
+        "images" : "/image/modern/8.png",
+        "sumber" : "Pinterest/Style Me Rebel",
+        "model_casual"  : "All Black",
+        "refer" :"Kamu bisa memadukan top dan pants berwarna hitam dan sepatu warna terang, seperti warna hijau supaya ada satu yang stand out."
+    },
+    {
+        "id" : "9",
+        "images" : "/image/modern/9.png",
+        "sumber" : "Pinterest/Johnston & Murphy",
+        "model_casual"  : "Polo Shirt + Chino",
+        "Adat Asal" :"Kamu bisa padukan polo shirt dengan celana chino dan sepatu slip on semi formal (bertali)."
+    },
+    {
+        "id" : "10",
+        "images" : "/image/modern/10.png",
+        "sumber" : "DMARGE",
+        "model_casual"  : "Shirt + Jeans + Loafers",
+        "Adat Asal" :"Kesan penampilan yang kharismatik bisa kamu munculkan melalu perpaduan ketiga item ini, kaos polos pas di badan, jeans dengan warna senada serta sepatu loafers semi formal."
+    }
+]
+
