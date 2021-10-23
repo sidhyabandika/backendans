@@ -7,6 +7,7 @@ const importData3 = require("./moderncasualwanita.json");
 const importData4 = require("./fashionpantaipria.json");
 const importData5 = require("./fashionpantaiwanita.json");
 const importData6 = require("./old.json");
+
 let port = process.env.PORT;
 
 app.get ("/",(req, res) =>{
@@ -18,10 +19,10 @@ app.get("/car",(req, res) =>{
 app.get("/adat",(req, res) =>{
     res.send(importData1);
 });
-app.get("/modern/casual/pria",(req, res) =>{
+app.get("/casual/pria",(req, res) =>{
     res.send(importData2);
 });
-app.get("/modern/casual/wanita",(req, res) =>{
+app.get("/casual/wanita",(req, res) =>{
     res.send(importData3);
 });
 app.get("/pantai/pria",(req, res) =>{
