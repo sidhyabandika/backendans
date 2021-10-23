@@ -1,0 +1,53 @@
+[
+    {
+        "id" : "1",
+        "images" : "/image/pantai2/1.png",
+        "sumber" : "Sumber Gambar: Google",
+        "model"  : "Kaos Lengan Pendek Tetap Kece untuk outfit ke Pantai",
+        "refer" :"Rasa nyaman tentu suatu hal yang sangat diinginkan setiap orang saat liburan di pantai, untuk itu kaos berlengan pendek ini jangan sampai lupa dibawa."
+    },
+    {
+        "id" : "2",
+        "images" : "/image/pantai2/2.png",
+        "sumber" : "Sumber Gambar: Google",
+        "model"  : "Kaos Tanpa Lengan Untuk Gaya Pakaian Pria Saat Di Pantai",
+        "refer" :"Kaos tanpa lengan ini sangat pas di kombinasikan dengan celana pendek chino. Karena akan membantu kalian dalam bergerak secara aktif."
+    },
+    {
+        "id" : "3",
+        "images" : "/image/pantai2/3.png",
+        "sumber" : "Sumber Gambar: Google",
+        "model"  : "Celana Pendek Untuk Gaya Pakaian Pria Ke Pantai",
+        "refer" :"Bagi kalian yang liburan ke pantai namun hanya ingin bermain air di pinggir pantai saja, kalian bisa menggunakan celana pendek pria ini. Tentu dipilih material yang ringan supaya kalian bisa bergerak luwes dan bebas."
+    },
+    {
+        "id" : "4",
+        "images" : "/image/pantai2/4.png",
+        "sumber" : "Sumber Gambar: Google",
+        "model"  : "Gaya Pakaian Pria Celana Renang",
+        "refer" :"Dengan memakai material yang lebih ringan dan memiliki panjang yang hanya setengah lutut, memudahkan kalian untuk melakukan pergerakan waktu di air. Sehingga kalian akan sangat mudah waktu bergerak atau berenang di air."
+
+    },
+    {
+        "id" : "5",
+        "images" : "/image/pantai2/5.png",
+        "sumber" : "Sumber Gambar: Goolge",
+        "model"  : "Gaya Pakaian Pria Ke Pantai Dengan Sendal",
+        "refer" :"Sendal jepit dengan bahan karet ini sangat nyaman digunakan berjalan di pantai. Sendal yang terbuat dari material yang baik, yang tidak licin dan tidak gampang kotor. Dan juga bahan yang dipakai adalah karet, jadi akan terasa lebih enteng. sehingga saat sela-sela jari kaki kemasukan pasir, tidak akan terasa berat untuk berjalan."
+    },
+    {
+        "id" : "6",
+        "images" : "/image/pantai2/6.png",
+        "sumber" : "Sumber Gambar: Google",
+        "model"  : "Gaya Pakaian Pria Ke Pantai Dengan Topi",
+        "refer" :"Topi fedora ini juga punya beberapa varian, tetapi yang paling kece buat ke pantai adalah tipe Panama Straw Fedora. Fedora jenis ini sangat bisa dihandalkan untuk melindungi kepala kalian dari panasnya matahari saat santai di pinggir pantai."
+    },
+    {
+        "id" : "7",
+        "images" : "/image/pantai2/7.png",
+        "sumber" : "Sumber Gambar: Google",
+        "model"  : "Gaya Pakaian Pria Ke Pantai Dengan Kacamata Hitam",
+        "refer" :"Item fashion lain yang jangan sampai lupa untuk dibawa, sangat pas untuk gaya pakaian pria ke pantai adalah kacamata hitam."
+    }
+]
+
