@@ -31,7 +31,7 @@ app.get("/pantai/pria",(req, res) =>{
 app.get("/pantai/wanita",(req, res) =>{
     res.send(importData5);
 });
-app.get("/old",(req, res) =>{
+app.get("/gaya/old",(req, res) =>{
     res.send(importData6);
 });
 app.listen(port,() => {
