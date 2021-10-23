@@ -20,7 +20,7 @@ app.get("/modern/casual/pria",(req, res) =>{
     res.send(importData2);
 });
 app.get("/modern/casual/wanita",(req, res) =>{
-    res.send(importData2);
+    res.send(importData3);
 });
 app.listen(port,() => {
     console.log('example app is listening on port');
