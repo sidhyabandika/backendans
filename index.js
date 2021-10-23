@@ -5,6 +5,7 @@ const importData1 = require("./dbadat.json");
 const importData2 = require("./dbmoderncasualpria.json");
 const importData3 = require("./dbmoderncasualwanita.json");
 const importData4 = require("./fashionpantaipria.json");
+const importData5 = require("./fashionpantaiwanita.json");
 
 let port = process.env.PORT;
 
@@ -25,6 +26,9 @@ app.get("/modern/casual/wanita",(req, res) =>{
 });
 app.get("/pantai/pria",(req, res) =>{
     res.send(importData4);
+});
+app.get("/pantai/wanita",(req, res) =>{
+    res.send(importData5);
 });
 app.listen(port,() => {
     console.log('example app is listening on port');
