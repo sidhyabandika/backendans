@@ -2,6 +2,7 @@ const express = require ("express");
 const app = express();
 const importData = require("./db.json");
 const importData1 = require("./dbadat.json");
+const importData2 = require("./dbmoderncasualpria.json");
 
 let port = process.env.PORT;
 
@@ -13,6 +14,9 @@ app.get("/car",(req, res) =>{
 });
 app.get("/adat",(req, res) =>{
     res.send(importData1);
+});
+app.get("/modern/casual/pria",(req, res) =>{
+    res.send(importData2);
 });
 
 app.listen(port,() => {
