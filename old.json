@@ -1,0 +1,60 @@
+[
+    {
+        "id" : "1",
+        "images" : "/image/old/1.png",
+        "sumber" : "Herbeauty",
+        "model_old"  : "Membiarkan satu strap overall terbuka ",
+        "refer" :"Will Smith merupakan salah satu sosok yang identik dengan gaya ini. Di tahun ini, kamu jangan merasa tak keren saat berpenampilan seperti ini."
+    },
+    {
+        "id" : "2",
+        "images" : "/image/old/2.png",
+        "sumber" : "Herbeauty",
+        "model_old"  : "Snapback Raiders",
+        "refer" :"dentik dengan budaya pop, gaya hidup di California, dan umumnya terkenal dengan orang yang suka memberontak. Namun snapback ini bisa kamu pakai kembali di tahun ini sesuai dengan ciri khas mu."
+    },
+    {
+        "id" : "3",
+        "images" : "/image/old/3.png",
+        "sumber" : "Herbeauty",
+        "model_old"  : "Neon Windbreakers",
+        "refer" :"Merupakan salah satu ikon dari fashion tahun 90an. Mungkin kamu merasa aneh mengenakan pakaian seperti ini. Namun tidak di tahun ini. Kamu patut mencobanya dan bersiap untuk menjadi kekinian dengan windbreakers ini."
+    },
+    {
+        "id" : "4",
+        "images" : "/image/old/4.png",
+        "sumber" : "Herbeauty",
+        "model_old"  : "Bandana",
+        "refer" :"Merupakan salah satu gaya khas dari urban style tahun 90an. Bandana dengan berbagai macam warna dan cara pemakaian, bisa kamu coba di tahun ini. Tak hanya dipakai di kepala, kamu bisa mengenakan bandana ini di leher atau kerah baju."
+
+    },
+    {
+        "id" : "5",
+        "images" : "/image/old/5.png",
+        "sumber" : "Herbeauty",
+        "model_old"  : "Bucket Hats",
+        "refer" :"Bucket hats adalah salah satu aksesoris kepala terbaik di tahun 90an. Akan kembali menjadi tren di tahun ini. Jadi, kamu perlu mencobanya, ya."
+    },
+    {
+        "id" : "6",
+        "images" : "/image/old/6.png",
+        "sumber" : "Herbeauty",
+        "model_old"  : "Kemeja Dipinggang",
+        "refer" :"Gaya fashion ini pas buat kamu yang tak suka ribet. Bisa dipakai saat hang out atau jalan-jalan bersama teman. Kamu hanya perlu menyiapkan kemeja andalan."
+    },
+    {
+        "id" : "7",
+        "images" : "/image/old/7.png",
+        "sumber" : "Herbeauty",
+        "model_old"  : "Flannel",
+        "refer" :"Gaya ini mewakili popularitas dari budaya grunge. Gaya ini akan kembali menjadi tren di tahun ini. Kamu hanya perlu memadupadankan kemeja flannel dengan kaos ataupun diikat dipinggang."
+    },
+    {
+        "id" : "8",
+        "images" : "/image/old/8.png",
+        "sumber" : "Herbeauty",
+        "model_old"  : "Oakley",
+        "refer" :"Di tahun 90an, kacamata dengan merk Oakley sangat populer. Tak ada salahnya kamu memiliki satu item fashion ini untuk melengkapi gaya kamu di tahun 2019 ini."
+    }
+]
+
