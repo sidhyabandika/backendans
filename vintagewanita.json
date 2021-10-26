@@ -1,0 +1,60 @@
+[
+    {
+        "id" : "1",
+        "images" : "/image/vintage/1.png",
+        "sumber_gambar" : "fromluxewithlove.com",
+        "model"  : "Kemeja krem",
+        "refer" :"dress tanpa lengan bermotif houndstooth dan polkadot, ditambah white heels dan kacamata cat eye, inspirasi OOTD formal bergaya vintage nan kece."
+    },
+    {
+        "id" : "2",
+        "images" : "/image/vintage/2.png",
+        "sumber_gambar" : "thecoolhour.com",
+        "model"  : "celana cutbray",
+        "refer" :"dengan aneka blus juga bisa jadi gaya vintage untuk hangout bersama sahabatmu."
+    },
+    {
+        "id" : "3",
+        "images" : "/image/vintage/3.png",
+        "sumber_gambar" : "instagram.com/bybrunaoliver",
+        "model"  : "Style Simple",
+        "refer" :"Padukan kaus putih, rok tartan, tas selempang cokelat, dan oxford shoes berwarna senada."
+    },
+    {
+        "id" : "4",
+        "images" : "/image/vintage/4.png",
+        "sumber_gambar" :"fashiontwin.com",
+        "model"  : "Gaya monokrom",
+        "refer" :"dress bermotif dan detail pita di bagian dada juga bisa bikin penampilanmu terlihat anggun."
+
+    },
+    {
+        "id" : "5",
+        "images" : "/image/vintage/5.png",
+        "sumber_gambar" : "stylessential.com",
+        "model"  : "ingin tampil kece",
+        "refer" :"Padukan blus polkadot warna cerah dengan midi skirt cokelat, straw bag, dan ankle boots untuk gaya vintage nan chic."
+    },
+    {
+        "id" : "6",
+        "images" : "/image/vintage/6.png",
+        "sumber_gambar" : "instagram.com/sara_waiste",
+        "model"  : "Dress simpel",
+        "refer" :"lengan puffy yang ditambah dengan belt, hand bag, dan sepatu cokelat untuk gaya vintage nan klasik."
+    },
+    {
+        "id" : "7",
+        "images" : "/image/vintage/7.png",
+        "sumber_gambar" : "instagram/andienaisyah",
+        "model"  : "Nuansa jadul",
+        "refer" :"memadukan sweater dan rok midi bermotif plaid. Tambah sneakers dan tas jinjing berukuran kecil sebagai pelengkap gayamu."
+    },
+    {
+        "id" : "8",
+        "images" : "/image/vintage/8.png",
+        "sumber_gambar" : "instagram.com/cherrydreamy",
+        "model"  : "Ingin penampilan cute",
+        "refer" :"kamu yang suka gaya vintage dan tampil feminin bisa tiru OOTD dengan dress putih polkadot berpita ini."
+    }
+]
+
