@@ -44,7 +44,7 @@ app.get("/vintage/wanita",(req, res) =>{
     res.send(importData8);
 });
 app.get("/gunung",(req, res) =>{
-    res.send(importData8);
+    res.send(importData9);
 });
 app.listen(port,() => {
     console.log('example app is listening on port');
