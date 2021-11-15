@@ -1,6 +1,6 @@
 const express = require ("express");
 const app = express();
-const importData = require("./db.json");
+const importData  = require("./db.json");
 const importData1 = require("./dbadat.json");
 const importData2 = require("./dbmoderncasualpria.json");
 const importData3 = require("./dbmoderncasualwanita.json");

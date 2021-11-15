@@ -2,206 +2,206 @@
     {
         "id" : "1",
         "images" : "/image/adat/1.png",
-        "Nama baju"  : "Pakaian Adat Ulee Balang",
-        "Asal Adat" :"Nanggroe Aceh Darussalam"
+        "Nama_baju"  : "Pakaian Adat Ulee Balang",
+        "Asal_Adat" :"Nanggroe Aceh Darussalam"
     },
     {
         "id" : "2",
         "images" : "/image/adat/2.png",
-        "Nama baju"  : "Pakaian Adat Ulos",
-        "Asal Adat" :"Sumatera Utara"
+        "Nama_baju"  : "Pakaian Adat Ulos",
+        "Asal_Adat" :"Sumatera Utara"
     },
     {
         "id" : "3",
         "images" : "/image/adat/3.png",
-        "Nama baju"  : "Pakaian Adat Bundo Kanduang",
-        "Asal Adat" :"Sumatera Barat"
+        "Nama_baju"  : "Pakaian Adat Bundo Kanduang",
+        "Asal_Adat" :"Sumatera Barat"
     },
     {
         "id" : "4",
         "images" : "/image/adat/4.png",
-        "Nama Baju"  : "Pakaian Adat Aesan Gede",
-        "Asal Adat" :"Sumatera Selatan"
+        "Nama_baju"  : "Pakaian Adat Aesan Gede",
+        "Asal_Adat" :"Sumatera Selatan"
 
     },
     {
         "id" : "5",
         "images" : "/image/adat/5.png",
-        "Nama baju"  : "Pakaian Adat Melayu",
-        "Asal Adat" :"Riau "
+        "Nama_baju"  : "Pakaian Adat Melayu",
+        "Asal_Adat" :"Riau "
     },
     {
         "id" : "6",
         "images" : "/image/adat/6.png",
-        "Nama Baju"  : "Pakaian Adat Teluk Belanga",
-        "Asal Adat" :"Kepulauan Riau "
+        "Nama_baju"  : "Pakaian Adat Teluk Belanga",
+        "Asal_Adat" :"Kepulauan Riau "
     },
     {
         "id" : "7",
         "images" : "/image/adat/7.png",
-        "Nama Baju"  : "Pakaian Adat Melayu Jambi",
-        "Asal Adat" :"Jambi "
+        "Nama_baju"  : "Pakaian Adat Melayu Jambi",
+        "Asal_Adat" :"Jambi "
     },
     {
         "id" : "8",
         "images" : "/image/adat/8.png",
-        "Nama Baju"  : "Pakaian Adat Paksian",
-        "Asal Adat" :"Bangka Belitung"
+        "Nama_baju"  : "Pakaian Adat Paksian",
+        "Asal_Adat" :"Bangka Belitung"
     },
     {
         "id" : "9",
         "images" : "/image/adat/9.png",
-        "Nama Baju"  : "Pakaian Adat Melayu",
+        "Nama_baju"  : "Pakaian Adat Melayu",
         "Adat Asal" :"Bengkulu"
     },
     {
         "id" : "10",
         "images" : "/image/adat/10.png",
-        "Nama Baju"  : "Pakaian Adat Tulang Bawang",
+        "Nama_baju"  : "Pakaian Adat Tulang Bawang",
         "Adat Asal" :"Lampung"
     },
     {
         "id" : "11",
         "images" : "/image/adat/11.png",
-        "Nama Baju"  : "Pakaian Adat Betawi",
+        "Nama_baju"  : "Pakaian Adat Betawi",
         "Adat Asal" :"DKI Jakarta"
     },
     {
         "id" : "12",
         "images" : "/image/adat/12.png",
-        "Nama Baju"  : "Pakaian Adat Pangsi",
+        "Nama_baju"  : "Pakaian Adat Pangsi",
         "Adat Asal" :"Banten"
     },
     {
         "id" : "13",
         "images" : "/image/adat/13.png",
-        "Nama Baju"  : "Pakaian Adat Kebaya Sunda",
+        "Nama_baju"  : "Pakaian Adat Kebaya Sunda",
         "Adat Asal" :"Jawa Barat"
     },
     {
         "id" : "14",
         "images" : "/image/adat/14.png",
-        "Nama Baju"  : "Pakaian Adat Kebaya Jawa",
+        "Nama_baju"  : "Pakaian Adat Kebaya Jawa",
         "Adat Asal" :"Jawa Tengah "
     },
     {
         "id" : "15",
         "images" : "/image/adat/15.png",
-        "Nama Baju"  : "Pakaian Adat Pesa’an",
+        "Nama_baju"  : "Pakaian Adat Pesa’an",
         "Adat Asal" :"Jawa Timur "
     },
     {
         "id" : "16",
         "images" : "/image/adat/16.png",
-        "Nama Baju"  : "Pakaian Adat Kesatrian Ageng",
+        "Nama_baju"  : "Pakaian Adat Kesatrian Ageng",
         "Adat Asal" :"Daerah Istimewa Yogyakarta"
     },
     {
         "id" : "17",
         "images" : "/image/adat/17.png",
-        "Nama Baju"  : "Pakaian Adat Safari dan Kebaya",
+        "Nama_baju"  : "Pakaian Adat Safari dan Kebaya",
         "Adat Asal" :"Bali"
     },
     {
         "id" : "18",
         "images" : "/image/adat/18.png",
-        "Nama Baju"  : "Pakaian Adat Suku Sasak",
+        "Nama_baju"  : "Pakaian Adat Suku Sasak",
         "Adat Asal" :"Nusa Tenggara Barat"
     },
     {
         "id" : "19",
         "images" : "/image/adat/19.png",
-        "Nama Baju"  : "Pakaian Adat Nusa Tenggara Timur",
+        "Nama_baju"  : "Pakaian Adat Nusa Tenggara Timur",
         "Adat Asal" :"Nusa Tenggara Timur"
     },
     {
         "id" : "20",
         "images" : "/image/adat/20.png",
-        "Nama Baju"  : "Pakaian Adat King Baba dan King Bibinge",
+        "Nama_baju"  : "Pakaian Adat King Baba dan King Bibinge",
         "Adat Asal" :"Kalimantan Barat"
     },
     {
         "id" : "21",
         "images" : "/image/adat/21.png",
-        "Nama Baju"  : "Pakaian Adat Upak Nyamu",
+        "Nama_baju"  : "Pakaian Adat Upak Nyamu",
         "Adat Asal" :"Kalimantan Tengah"
     },
     {
         "id" : "22",
         "images" : "/image/adat/22.png",
-        "Nama Baju"  : "Pakaian Adat Bagajah Gamuling Baular Lulut",
+        "Nama_baju"  : "Pakaian Adat Bagajah Gamuling Baular Lulut",
         "Adat Asal" :"Kalimantan Selatan"
     },
     {
         "id" : "23",
         "images" : "/image/adat/23.png",
-        "Nama Baju"  : "Pakaian Adat Ta'a dan Sapei Sapaq",
+        "Nama_baju"  : "Pakaian Adat Ta'a dan Sapei Sapaq",
         "Adat Asal" :"Kalimantan Utara"
     },
     {
         "id" : "24",
         "images" : "/image/adat/24.png",
-        "Nama Baju"  : "Pakaian Adat Kustin",
+        "Nama_baju"  : "Pakaian Adat Kustin",
         "Adat Asal" :"Kalimantan Timur"
     },
     {
         "id" : "25",
         "images" : "/image/adat/25.png",
-        "Nama Baju"  : "Pakaian Adat Lipa Saqbe Mandar",
+        "Nama_baju"  : "Pakaian Adat Lipa Saqbe Mandar",
         "Adat Asal" :"Sulawesi Barat"
     },
     {
         "id" : "26",
         "images" : "/image/adat/26.png",
-        "Nama Baju"  : "Pakaian Adat Nggembe",
+        "Nama_baju"  : "Pakaian Adat Nggembe",
         "Adat Asal" :"Sulawesi Tengah"
     },
     {
         "id" : "27",
         "images" : "/image/adat/27.png",
-        "Nama Baju"  : "Pakaian Adat Laku Tepu",
+        "Nama_baju"  : "Pakaian Adat Laku Tepu",
         "Adat Asal" :"Sulawesi Utara"
     },
     {
         "id" : "28",
         "images" : "/image/adat/28.png",
-        "Nama Baju"  : "Pakaian Adat Kinawo",
+        "Nama_baju"  : "Pakaian Adat Kinawo",
         "Adat Asal" :"Sulawesi Tenggara"
     },
     {
         "id" : "29",
         "images" : "/image/adat/29.png",
-        "Nama Baju"  : "Pakaian Adat Bodo",
+        "Nama_baju"  : "Pakaian Adat Bodo",
         "Adat Asal" :"Sulawesi Selatan"
     },
     {
         "id" : "30",
         "images" : "/image/adat/30.png",
-        "Nama Baju"  : "Pakaian Adat Biliu dan Makuta",
+        "Nama_baju"  : "Pakaian Adat Biliu dan Makuta",
         "Adat Asal" :"Gorontalo"
     },
     {
         "id" : "31",
         "images" : "/image/adat/31.png",
-        "Nama Baju"  : "Pakaian Adat Cele",
+        "Nama_baju"  : "Pakaian Adat Cele",
         "Adat Asal" :"Maluku"
     },
     {
         "id" : "32",
         "images" : "/image/adat/32.png",
-        "Nama Baju"  : "Pakaian Adat Manteren Lamo",
+        "Nama_baju"  : "Pakaian Adat Manteren Lamo",
         "Adat Asal" :"Maluku Utara"
     },
     {
         "id" : "33",
         "images" : "/image/adat/33.png",
-        "Nama Baju"  : "Pakaian Adat Ewer",
+        "Nama_baju"  : "Pakaian Adat Ewer",
         "Adat Asal" :"Papua Barat"
     },
     {
         "id" : "34",
         "images" : "/image/adat/34.png",
-        "Nama Baju"  : "Pakaian Adat Koteka",
+        "Nama_baju"  : "Pakaian Adat Koteka",
         "Adat Asal" :"Papua"
     }
 ]
