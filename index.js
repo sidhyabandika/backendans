@@ -9,7 +9,7 @@ const importData5 = require("./fashionpantaiwanita.json");
 const importData6 = require("./old.json");
 const importData7 = require("./vintagepria.json");
 const importData8 = require("./vintagewanita.json");
-const importData9 = require("./gunung.json");
+const importData9 = require("./bandara.json");
 
 let port = process.env.PORT;
 
@@ -43,7 +43,7 @@ app.get("/vintage/pria",(req, res) =>{
 app.get("/vintage/wanita",(req, res) =>{
     res.send(importData8);
 });
-app.get("/gunung",(req, res) =>{
+app.get("/bandara",(req, res) =>{
     res.send(importData9);
 });
 app.listen(port,() => {
