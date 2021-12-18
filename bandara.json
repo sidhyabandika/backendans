@@ -1,349 +1,214 @@
 [	
 	{
-		"Provinsi"      :"Banten",
-		"kota"          :"Tanggerang",
-		"nama_bandara"  :"Bandar Udara Internasional Soekarno–Hatta",
-		"id_bandara"    :"CGK"
+		"bandara"  :"Bandar Udara Internasional Soekarno–Hatta",
+		"id"    :"CGK"
 	},
 	{
-		"Provinsi"      :"Bali",
-		"kota"          :"Denpasar",
-		"nama_bandara"  :"Bandar Udara Internasional Ngurah Rai",
-		"id_bandara"    :"DPS"
+		"bandara"  :"Bandar Udara Internasional Ngurah Rai",
+		"id"    :"DPS"
 	},
-	
 	{
-		"Provinsi"      :"Jawa Timur",
-		"kota"          :"Surabaya",
-		"nama_bandara"  :"Bandar Udara Internasional Juanda",
-		"id_bandara"    :"SUB"
+		"bandara"  :"Bandar Udara Internasional Juanda",
+		"id"    :"SUB"
 	},
-	
 	{
-		"Provinsi"      :"Sul-Sel",
-		"kota"          :"Makassar",
-		"nama-bandara"  :"Bandar Udara Internasional Sultan Hasanuddin",
-		"id_bandara"    :"UPG"
+		"bandara"  :"Bandar Udara Internasional Sultan Hasanuddin",
+		"id"    :"UPG"
 	},
-	
 	{
-		"Provinsi"      :"Sumatera Utara",
-		"nama-bandara"  :"Bandar Udara Internasional Kualanamu",
-        "kota"          :"Medan",
-		"id_bandara"    :"KNO"
+		"bandara"  :"Bandar Udara Internasional Kualanamu",
+		"id"    :"KNO"
 	},
-	
 	{
-		"Provinsi"      :"Daerah Istimewa Yogyakarta",
-		"nama-bandara"  :"Bandar Udara Internasional Adisutjipto",
-        "kota"          :"Yogyakarta",
-		"id_bandara"    :"JOG"
+		"bandara"  :"Bandar Udara Internasional Adisutjipto",
+		"id"    :"JOG"
 	},
-	
 	{
-		"Provinsi"      :"Kalimantan Timur",
-		"nama-bandara"  :"Bandar Udara Sultan Aji Muhammad Sulaiman",
-        "kota"          :"Balikpapan",
-		"id_bandara"    :"BPN"
+		"bandara"  :"Bandar Udara Sultan Aji Muhammad Sulaiman",
+		"id"    :"BPN"
 	},
-	
 	{
-		"Provinsi"      :"DKI Jakarta",
-		"nama-bandara"  :"Bandar Udara Halim Perdanakusuma",
-        "kota"          :"Jakarta",
-		"id_bandara"    :"HLP"
+		"bandara"  :"Bandar Udara Halim Perdanakusuma",
+		"id"    :"HLP"
 	},
-	
 	{
-		"Provinsi"      :"Kepulauan Riau",
-		"nama-bandara"  :"Bandar Udara Internasional Hang Nadim",
-        "kota"          :"Batam",
-		"id_bandara"    :"BTH"
+		"bandara"  :"Bandar Udara Internasional Hang Nadim",
+		"id"    :"BTH"
 	},
-	
 	{
-		"Provinsi"      :"Sumatra Selatan",
-		"nama-bandara"  :"Bandar Udara Internasional Sultan Mahmud Badaruddin II",
-        "kota"          :"Palembang",
-		"id_bandara"    :"PLM"
+		"bandara"  :"Bandar Udara Internasional Sultan Mahmud Badaruddin II",
+		"id"    :"PLM"
 	},
-	
 	{
-		"Provinsi"      :"Jawa Tengah",
-		"nama-bandara"  :"Bandar Udara Internasional Jenderal Ahmad Yani",
-        "kota"          :"Semarang",
-		"id_bandara"    :"SRG"
+		"bandara"  :"Bandar Udara Internasional Jenderal Ahmad Yani",
+		"id"    :"SRG"
 	},
-	
 	{
-		"Provinsi"      :"Jawa Barat",
-		"nama-bandara"  :"Bandar Udara Internasional Husein Sastranegara",
-        "kota"          :"Bandung",
-		"id_bandara"    :"BDO"
+		"bandara"  :"Bandar Udara Internasional Husein Sastranegara",
+		"id"    :"BDO"
+	},
+	{
+		"bandara"  :"Bandar Udara Internasional Supadio",
+		"id"    :"-"
+	},
+	{
+		"bandara"  :"Bandar Udara Internasional Zainuddin Abdul Madjid",
+		"id"    :"LOP"
+	},
+	{
+		"bandara"  :"Bandar Udara Internasional Sultan Syarif Kasim II",
+		"id"    :"PKU"
+	},
+	{
+		"bandara"  :"Bandar Udara Internasional Minangkabau",
+		"id"    :"PDG"
+	},
+	{
+		"bandara"  :"Bandar Udara internasional Syamsudin Noor",
+		"id"    :"BDJ"
+	},
+	{
+		"bandara"  :"Bandar Udara Sam Ratulangi",
+		"id"    :"MDC"
+	},
+	{
+        "bandara"  :"Bandar Udara Radin Inten II",
+		"id"    :"TKG"
 	},
 	
 	{
-		"Provinsi"      :"Kalimantan Barat",
-		"nama-bandara"  :"Bandar Udara Internasional Supadio",
-        "kota"          :"Pontianak",
-		"id_bandara"    :"-"
+        "bandara"  :"Bandar Udara Internasional Adisumarmo",
+		"id"    :"SOC"
 	},
-	
 	{
-		"Provinsi"      :"Nusa Tenggara Barat",
-		"nama-bandara"  :"Bandar Udara Internasional Zainuddin Abdul Madjid",
-        "kota"          :"Mataram",
-		"id_bandara"    :"LOP"
+        "bandara"  :"Bandar Udara Internasional Sentani",
+		"id"    :"DJJ"
 	},
-	
 	{
-		"Provinsi"      :"Riau",
-		"nama-bandara"  :"Bandar Udara Internasional Sultan Syarif Kasim II",
-        "kota"          :"Pekanbaru",
-		"id_bandara"    :"PKU"
+        "bandara"  :"Bandar Udara Depati Amir",
+		"id"    :"PGK"
 	},
-	
-	
 	{
-		"Provinsi"      :"Sumatra Barat",
-		"nama-bandara"  :"Bandar Udara Internasional Minangkabau",
-        "kota"          :"Padang",
-		"id_bandara"    :"PDG"
+        "bandara"  :"Bandar Udara El Tari",
+		"id"    :"KOE"
 	},
-	
-	{
-		"Provinsi"      :"Kalimantan Selatan",
-		"nama-bandara"  :"Bandar Udara internasional Syamsudin Noor",
-        "kota"          :"Banjarmasin",
-		"id_bandara"    :"BDJ"
-	},
-	
-	{
-		"Provinsi"      :"Sulawesi Utara",
-		"nama-bandara"  :"Bandar Udara Sam Ratulangi",
-        "kota"          :"Manado",
-		"id_bandara"    :"MDC"
-	},
-	
-	
-	{
-		"Provinsi"      :"Lampung",
-		"kota"          :"Bandar Lampung",
-        "Nama_Bandara"  :"Bandar Udara Radin Inten II",
-		"id_bandara"    :"TKG"
-	},
-	
-	{
-		"Provinsi"      :"Jawa Tengah",
-		"kota"          :"Solo",
-        "Nama_Bandara"  :"Bandar Udara Internasional Adisumarmo",
-		"id_bandara"    :"SOC"
-	},
-	
-	{
-		"Provinsi"      :"Jayapura",
-		"kota"          :"Papua",
-        "Nama_Bandara"  :"Bandar Udara Internasional Sentani",
-		"id_bandara"    :"DJJ"
-	},
-
-	{
-		"Provinsi"      :"Bangka Belitung",
-		"kota"          :"Pangkal Pinang",
-        "Nama_Bandara"  :"Bandar Udara Depati Amir",
-		"id_bandara"    :"PGK"
-	},
-	
-	{
-		"Provinsi"      :"Nusa Tenggara Timur",
-		"kota"          :"Kupang",
-        "Nama_Bandara"  :"Bandar Udara El Tari",
-		"id_bandara"    :"KOE"
-	},
-	
-	
     {
-		"Provinsi"      :"Jambi",
-		"kota"          :"Kota Jambi",
-        "Nama_Bandara"  :"Bandar Udara Sultan Thaha",
-		"id_bandara"    :"DJB"
+        "bandara"  :"Bandar Udara Sultan Thaha",
+		"id"    :"DJB"
+	},
+    {
+        "bandara"  :"Bandar Udara Domine Eduard Osok",
+		"id"    :"SOQ"
+	},
+    {
+        "bandara"  :"Bandar Udara Haluoleo",
+		"id"    :"KDI"
 	},
 	
-	
-    {
-		"Provinsi"      :"Papua Barat",
-		"kota"          :"Sorong",
-        "Nama_Bandara"  :"Bandar Udara Domine Eduard Osok",
-		"id_bandara"    :"SOQ"
+	{
+        "bandara"  :"Bandar Udara Pattimura",
+		"id"    :"AMQ"
+	},
+	{
+        "bandara"  :"Bandar Udara Mutiara",
+		"id"    :"PLL"
 	},
 	
     {
-		"Provinsi"      :"Sulawesi Tenggara",
-		"kota"          :"Kendari",
-        "Nama_Bandara"  :"Bandar Udara Haluoleo",
-		"id_bandara"    :"KDI"
+        "bandara"  :"Bandar Udara Abdul Rachman Saleh",
+		"id"    :"MLG"
 	},
-	
 	{
-		"Provinsi"      :"Maluku",
-		"kota"          :"Ambon",
-        "Nama_Bandara"  :"Bandar Udara Pattimura",
-		"id_bandara"    :"AMQ"
+        "bandara"  :"Bandar Udara Internasional H.A.S. Hanandjoeddin",
+		"id"    :"BTJ"
 	},
-	
-
 	{
-		"Provinsi"      :"Sulawesi Tengah",
-		"kota"          :"Palu",
-        "Nama_Bandara"  :"Bandar Udara Mutiara",
-		"id_bandara"    :"PLL"
-	},
-	
-    {
-		"Provinsi"      :"Jawa Timur",
-		"kota"          :"Malang",
-        "Nama_Bandara"  :"Bandar Udara Abdul Rachman Saleh",
-		"id_bandara"    :"MLG"
-	},
-	
-	{
-		"Provinsi"      :"Aceh",
-		"kota"          :"Banda Aceh",
-        "Nama_Bandara"  :"Bandar Udara Internasional H.A.S. Hanandjoeddin",
-		"id_bandara"    :"BTJ"
-	},
-
-	{
-		"Provinsi"      :"Bengkulu",
-		"kota"          :"Kota Bengkulu",
-        "Nama_Bandara"  :"Bandar Udara Fatmawati Soekarno",
-		"id_bandara"    :"BKS"
+        "bandara"  :"Bandar Udara Fatmawati Soekarno",
+		"id"    :"BKS"
 	},
     {
-		"Provinsi"      :"Bangka Belitung",
-		"kota"          :"Tanjung Pandan",
-        "Nama_Bandara"  :"Bandar Udara Internasional H.A.S. Hanandjoeddin",
-		"id_bandara"    :"TJQ"
+        "bandara"  :"Bandar Udara Internasional H.A.S. Hanandjoeddin",
+		"id"    :"TJQ"
 	},
     {
-		"Provinsi"      :"Kalimantan Utara",
-		"kota"          :"Tarakan",
-        "Nama_Bandara"  :"Bandar Udara Internasional Juwata",
-		"id_bandara"    :"TRK"
+        "bandara"  :"Bandar Udara Internasional Juwata",
+		"id"    :"TRK"
 	},
     {
-		"Provinsi"      :"Kalimantan Tengah",
-		"kota"          :"Palangkaraya",
-        "Nama_Bandara"  :"Bandar Udara Tjilik Riwut",
-		"id_bandara"    :"PKY"
+        "bandara"  :"Bandar Udara Tjilik Riwut",
+		"id"    :"PKY"
 	},
     {
-		"Provinsi"      :"Maluku Utara",
-		"kota"          :"Ternate",
-        "Nama_Bandara"  :"Bandar Udara Sultan Babullah",
-		"id_bandara"    :"TTE"
+        "bandara"  :"Bandar Udara Sultan Babullah",
+		"id"    :"TTE"
 	},
     {
-		"Provinsi"      :"Papua Barat",
-		"kota"          :"Manokwari",
-        "Nama_Bandara"  :"Bandar Udara Rendani",
-		"id_bandara"    :"MKW"
+        "bandara"  :"Bandar Udara Rendani",
+		"id"    :"MKW"
 	},
     {
-		"Provinsi"      :"Gorontalo",
-		"kota"          :"Kota Gorontalo",
-        "Nama_Bandara"  :"Bandar Udara Jalaluddin",
-		"id_bandara"    :"GTO"
+        "bandara"  :"Bandar Udara Jalaluddin",
+		"id"    :"GTO"
 	},
     {
-		"Provinsi"      :"Kalimantan Tengah",
-		"kota"          :"Pangkalan Bun",
-        "Nama_Bandara"  :"Bandar Udara Iskandar",
-		"id_bandara"    :"PKN"
+        "bandara"  :"Bandar Udara Iskandar",
+		"id"    :"PKN"
 	},
     {
-		"Provinsi"      :"Kalimantan Timur",
-		"kota"          :"Tanjung Redeb",
-        "Nama_Bandara"  :"Bandar Udara Kalimarau",
-		"id_bandara"    :"BEJ"
+        "bandara"  :"Bandar Udara Kalimarau",
+		"id"    :"BEJ"
 	},
     {
-		"Provinsi"      :"Nusa Tenggara Timur",
-		"kota"          :"Lanuan Bajo",
-        "Nama_Bandara"  :"Bandar Udara Komodo",
-		"id_bandara"    :"LBJ"
+        "bandara"  :"Bandar Udara Komodo",
+		"id"    :"LBJ"
 	},
     {
-		"Provinsi"      :"Kalimantan Tengah",
-		"kota"          :"Sampit",
-        "Nama_Bandara"  :"Bandar Udara H. Asan",
-		"id_bandara"    :"SMQ"
+        "bandara"  :"Bandar Udara H. Asan",
+		"id"    :"SMQ"
 	},
     {
-		"Provinsi"      :"Papua",
-		"kota"          :"Merauke",
-        "Nama_Bandara"  :"Bandar Udara Internasional Mopah",
-		"id_bandara"    :"MKQ"
+        "bandara"  :"Bandar Udara Internasional Mopah",
+		"id"    :"MKQ"
 	},
     {
-		"Provinsi"      :"Kalimantan Barat",
-		"kota"          :"Ketapang",
-        "Nama_Bandara"  :"Bandar Udara Rahadi Osman",
-		"id_bandara"    :"KTG"
+        "bandara"  :"Bandar Udara Rahadi Osman",
+		"id"    :"KTG"
 	},
     {
-		"Provinsi"      :"Nusa Tenggara Barat",
-		"kota"          :"Bima",
-        "Nama_Bandara"  :"Bandar Udara Sultan Muhammad Salahuddin",
-		"id_bandara"    :"BMU"
+        "bandara"  :"Bandar Udara Sultan Muhammad Salahuddin",
+		"id"    :"BMU"
 	},
     {
-		"Provinsi"      :"Kepulauan Riau",
-		"kota"          :"Tanjung Pinang",
-        "Nama_Bandara"  :"Bandar Udara Internasional Raja Haji Fisabilillah",
-		"id_bandara"    :"TNJ"
+        "bandara"  :"Bandar Udara Internasional Raja Haji Fisabilillah",
+		"id"    :"TNJ"
 	},
     {
-		"Provinsi"      :"Papua",
-		"kota"          :"Biak",
-        "Nama_Bandara"  :"Bandar Udara Frans Kaisiepo",
-		"id_bandara"    :"BIK"
+        "bandara"  :"Bandar Udara Frans Kaisiepo",
+		"id"    :"BIK"
 	},
     {
-		"Provinsi"      :"Papua",
-		"kota"          :"Wamena",
-        "Nama_Bandara"  :"Bandar Udara Wamena",
-		"id_bandara"    :"WMX"
+        "bandara"  :"Bandar Udara Wamena",
+		"id"    :"WMX"
 	},
     {
-		"Provinsi"      :"Kalimantan Timur",
-		"kota"          :"Samarinda",
-        "Nama_Bandara"  :"Bandar Udara Internasional Aji Pangeran Tumenggung Pranoto",
-		"id_bandara"    :"SRI"
+        "bandara"  :"Bandar Udara Internasional Aji Pangeran Tumenggung Pranoto",
+		"id"    :"SRI"
 	},
     {
-		"Provinsi"      :"Sumatera Utara",
-		"kota"          :"Gunung Sitoli",
-        "Nama_Bandara"  :"Bandar Udara Binaka",
-		"id_bandara"    :"GNS"
+        "bandara"  :"Bandar Udara Binaka",
+		"id"    :"GNS"
 	},
     {
-		"Provinsi"      :"Sulawesi Tenggara",
-		"kota"          :"Baubau",
-        "Nama_Bandara"  :"Bandar Udara Betoambari",
-		"id_bandara"    :"BUW"
+        "bandara"  :"Bandar Udara Betoambari",
+		"id"    :"BUW"
 	},
     {
-		"Provinsi"      :"Nusa Tenggara Timur",
-		"kota"          :"Ende",
-        "Nama_Bandara"  :"Bandar Udara H. Hasan Aroeboesman",
-		"id_bandara"    :"ENE"
+        "bandara"  :"Bandar Udara H. Hasan Aroeboesman",
+		"id"    :"ENE"
 	},
     {
-		"Provinsi"      :"Papua",
-		"kota"          :"Timika",
-        "Nama_Bandara"  :"Bandar Udara Mozes Kilangin",
-		"id_bandara"    :"TIM"
+        "bandara"  :"Bandar Udara Mozes Kilangin",
+		"id"    :"TIM"
 	}
 ]
 
